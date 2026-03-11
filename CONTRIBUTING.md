@@ -1,4 +1,4 @@
-# Contributing to MNIST Adversarial ML
+ # Contributing to MNIST Adversarial ML
 
 Thank you for your interest in this project!
 
